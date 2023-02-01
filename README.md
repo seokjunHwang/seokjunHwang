@@ -3,8 +3,11 @@
 ### Let me introduce myself
 
 Hi, I am seokjunHwang.
+
 I am South Korean and AI data scientist using python.
+
 So, I am pythonista.
+
 I love python so much.
 
 
