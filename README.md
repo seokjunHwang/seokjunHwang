@@ -10,6 +10,11 @@ So, I am pythonista.
 
 I love python so much.
 
+### I can speak..
+
+- Korean
+- English
+- Python
 
 <!--
 **seokjunHwang/seokjunHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
