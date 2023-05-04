@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Hwangseokjun's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokjunHwang&show_icons=true&theme=radical)
 
 <!--
 **seokjunHwang/seokjunHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
