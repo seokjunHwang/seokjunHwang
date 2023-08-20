@@ -1,10 +1,11 @@
 ### 겸손한 마음으로 한 단계씩 끝까지 독하게 해내겠습니다.
 ### 주니어 AI개발자 황석준입니다.
 
-### - Email | ada0004@naver.com
-### - Phone | 📞 010.4612.2974
-### - Blog  | https://jayindustry.tistory.com/
-### - Operational Site | 
+
+#### - Email | ada0004@naver.com
+#### - Phone | 📞 010.4612.2974
+#### - Blog  | https://jayindustry.tistory.com/
+#### - Operational Site | 
 
 <br>
 <p align="center">
